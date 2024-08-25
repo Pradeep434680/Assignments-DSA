@@ -37,8 +37,7 @@ int main()
     head= deleteDuplicates(head);
     display(head);
 
+}
 
    
     
-
-}
